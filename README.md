@@ -1,7 +1,7 @@
 # React SWAPI GraphQL Code Challenge
 
 A [React](https://reactjs.org/) application to list and view Star Wars
-characters from [swapi-graphql](http://graphql.org/swapi-graphql/).
+characters from [SWAPI](https://swapi.co/).
 
 Made with:
 
